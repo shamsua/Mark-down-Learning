@@ -34,7 +34,7 @@ Print ('This is code')
 
 list
 
-- | | Shamsu
+| | Shamsu
 - | | Abdullahi
 - | | Salihawa
 
