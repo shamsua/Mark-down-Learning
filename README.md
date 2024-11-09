@@ -24,3 +24,7 @@ _Mark-down_
 
 
 [My githublink](https://github.com/shamsua/)
+
+''' python
+Print ("This is code")
+'''
