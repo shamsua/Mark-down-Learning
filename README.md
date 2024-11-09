@@ -22,7 +22,5 @@ _Mark-down_
 4. four
 5. five
 
-i. one
 
-ii.two
 [My githublink](https://github.com/shamsua/)
