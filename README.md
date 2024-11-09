@@ -31,3 +31,12 @@ Print ('This is code')
 | Name   | Dept | Phone No|
 |--------|------|---------|
 | SHamsu |Compu |+60      |
+
+list
+
+- | | Shamsu
+- | | Abdullahi
+- |*| Salihawa
+
+---
+***
