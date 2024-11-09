@@ -28,3 +28,6 @@ _Mark-down_
 ''' python
 Print ('This is code')
 '''
+| Name   | Dept | Phone No|
+|--------|------|---------|
+| SHamsu |Compu |+60      |
