@@ -36,7 +36,7 @@ list
 
 - | | Shamsu
 - | | Abdullahi
-- |*| Salihawa
+- | | Salihawa
 
 ---
 ***
